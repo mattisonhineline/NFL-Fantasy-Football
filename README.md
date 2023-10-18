@@ -4,7 +4,7 @@
 
 ----- In Process.... -----
 
-Overview of my 2023 machine learning project. Expected completion time is 11 months, including project planning, data collection, data cleaning, exploratory analysis, statistical analysis, machine learning - model building, testing (which will happen live during the 2023 NFL season), reporting, and reflection. 
+Overview of a machine learning project. Including project planning, data collection, data cleaning, exploratory analysis, statistical analysis, machine learning - model building, testing, reporting, and reflection. 
 
 ## Overview
 
